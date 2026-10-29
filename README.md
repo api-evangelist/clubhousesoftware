@@ -64,5 +64,126 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Clubhousesoftware is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/clubhousesoftware
+Clubhousesoftware is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling. The company appears to be a software provider targeting club management solutions, but no official website could be verified. Public references point to a potential domain clubhousesoftwareinc.com, which was unreachable at the time of probing. Further investigation may be required to confirm its online presence and product offerings.
+
+**Areas:** Company · Software · Club Management · Software-as-a-Service · Point-of-Sale
+
+## Clubhousesoftware on APIs.io
+
+Everything profiled for Clubhousesoftware is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/clubhousesoftware/](https://apis.io/providers/clubhousesoftware/)** — or go straight to one of the APIs or properties below.
+
+### APIs (25)
+
+- [Clubhousesoftware Categories API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-categories-api/) — The Categories API from Clubhousesoftware — 4 operation(s) for categories.
+- [Clubhousesoftware Custom Fields API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-custom-fields-api/) — The Custom Fields API from Clubhousesoftware — 2 operation(s) for custom fields.
+- [Clubhousesoftware Documents API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-documents-api/) — The Documents API from Clubhousesoftware — 4 operation(s) for documents.
+- [Clubhousesoftware Entity Templates API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-entity-templates-api/) — The Entity Templates API from Clubhousesoftware — 4 operation(s) for entity templates.
+- [Clubhousesoftware Epic Workflow API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-epic-workflow-api/) — The Epic Workflow API from Clubhousesoftware — 1 operation(s) for epic workflow.
+- [Clubhousesoftware Epics API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-epics-api/) — The Epics API from Clubhousesoftware — 9 operation(s) for epics.
+- [Clubhousesoftware External Link API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-external-link-api/) — The External Link API from Clubhousesoftware — 1 operation(s) for external link.
+- [Clubhousesoftware Files API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-files-api/) — The Files API from Clubhousesoftware — 2 operation(s) for files.
+- [Clubhousesoftware Groups API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-groups-api/) — The Groups API from Clubhousesoftware — 3 operation(s) for groups.
+- [Clubhousesoftware Health API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-health-api/) — The Health API from Clubhousesoftware — 1 operation(s) for health.
+- [Clubhousesoftware Integrations API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-integrations-api/) — The Integrations API from Clubhousesoftware — 2 operation(s) for integrations.
+- [Clubhousesoftware Iterations API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-iterations-api/) — The Iterations API from Clubhousesoftware — 5 operation(s) for iterations.
+- [Clubhousesoftware Key Results API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-key-results-api/) — The Key Results API from Clubhousesoftware — 1 operation(s) for key results.
+- [Clubhousesoftware Labels API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-labels-api/) — The Labels API from Clubhousesoftware — 4 operation(s) for labels.
+- [Clubhousesoftware Linked Files API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-linked-files-api/) — The Linked Files API from Clubhousesoftware — 2 operation(s) for linked files.
+- [Clubhousesoftware Member API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-member-api/) — The Member API from Clubhousesoftware — 1 operation(s) for member.
+- [Clubhousesoftware Members API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-members-api/) — The Members API from Clubhousesoftware — 2 operation(s) for members.
+- [Clubhousesoftware Milestones API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-milestones-api/) — The Milestones API from Clubhousesoftware — 3 operation(s) for milestones.
+- [Clubhousesoftware Objectives API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-objectives-api/) — The Objectives API from Clubhousesoftware — 5 operation(s) for objectives.
+- [Clubhousesoftware Projects API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-projects-api/) — The Projects API from Clubhousesoftware — 3 operation(s) for projects.
+- [Clubhousesoftware Repositories API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-repositories-api/) — The Repositories API from Clubhousesoftware — 2 operation(s) for repositories.
+- [Clubhousesoftware Search API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-search-api/) — The Search API from Clubhousesoftware — 7 operation(s) for search.
+- [Clubhousesoftware Stories API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-stories-api/) — The Stories API from Clubhousesoftware — 13 operation(s) for stories.
+- [Clubhousesoftware Story Links API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-story-links-api/) — The Story Links API from Clubhousesoftware — 2 operation(s) for story links.
+- [Clubhousesoftware Workflows API](https://apis.io/apis/clubhousesoftware/clubhousesoftware-workflows-api/) — The Workflows API from Clubhousesoftware — 2 operation(s) for workflows.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Clubhousesoftware Agentic Access](https://apis.io/agentic-access/clubhousesoftware/clubhousesoftware-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Clubhousesoftware Context](https://apis.io/jsonld/clubhousesoftware/clubhousesoftware-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Clubhousesoftware API Rules](https://apis.io/rules/clubhousesoftware/clubhousesoftware-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Clubhousesoftware Authentication](https://apis.io/security/clubhousesoftware/clubhousesoftware-authentication/)
+- [Clubhousesoftware Domain Security](https://apis.io/security/clubhousesoftware/clubhousesoftware-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://equityzen.com/company/clubhousesoftware)
+
+## API Evangelist rating
+
+**Kin Score 26.9** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 44.6 |
+| Contract quality | 59.1 |
+| Contract governance | 22.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 13.7 |
+| Access clarity | 0.0 |
+
+**Agent readiness 23.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/clubhousesoftware/](https://apis.io/providers/clubhousesoftware/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Clubhousesoftware: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/clubhousesoftware/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
